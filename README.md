@@ -8,4 +8,4 @@ Demo: https://yanhua.quange.top
 
 ## 展示
 
-![预览图](Image_Preview.png)
+![预览图](Preview.png)
